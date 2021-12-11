@@ -30,4 +30,4 @@ README.md
 ## The blog post could be found: 
 
 ## Acknowlegement: 
-The project is using AZ Direct GmbH data provided through Udacity.
+The project is using data provided by Bertelsmann Arvato Analytics through partnership with Udacity.
