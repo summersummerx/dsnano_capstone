@@ -1,7 +1,7 @@
 # Customer Segmentation Report for Arvato Financial Solutions
 
 ## Motivation: 
-Arvato Financial Solutions is a mail-order sales company in Germany. This project compared demographics data of Arvato customers against demographics information of the general population. Unsupervised learning was used to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. Supervised learning was used to learn and predict which individuals are most likely to convert to a customer of the compane
+Arvato Financial Solutions is a mail-order sales company in Germany. This project compared demographics data of Arvato customers against demographics information of the general population. Unsupervised learning was used to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. Supervised learning was used to learn and predict which individuals are most likely to convert to a customer of the company.
 
 
 ## Libraries used:
@@ -30,4 +30,4 @@ README.md
 ## The blog post could be found: 
 
 ## Acknowlegement: 
-The project is using data provided by Arvato Financial Solutions through Udacity.
+The project is using AZ Direct GmbH data provided through Udacity.
