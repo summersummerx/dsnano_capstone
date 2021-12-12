@@ -27,7 +27,7 @@ README.md
 3. Assuming the azdias dataset is a good representation of the general population, we have the most people from cluster no.2 in general population. And cluster no.2 also has relatively high customer percentage. Thus, cluster no.2 could be the priority in future marketing efforts if given limited budget and time.                                       
 4. The prediction model built has a Score of 0.62513 in the Udacity+Arvato Kaggle Competition
 
-## The blog post could be found: 
+## The blog post could be found: https://summer-ericas.wixsite.com/website-1/post/customer-segmentation-report-for-arvato-financial-solutions
 
 ## Acknowlegement: 
 The project is using data provided by Bertelsmann Arvato Analytics through partnership with Udacity.
